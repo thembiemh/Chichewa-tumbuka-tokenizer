@@ -1,0 +1,5 @@
+{
+  "xlmr-base": "xlm-roberta-base",
+  "afro-xlmr-base": "Davlan/afro-xlmr-base",
+  "afro-xlmr-base-76L": "Davlan/afro-xlmr-base-76L_script"
+}

@@ -1,0 +1,5 @@
+source,lang,MB,docs,note
+Glot500-c,nya,39.58,200000,at least (stopped at 200000 documents)
+Glot500-c,tum,1.48,10267,complete
+MADLAD-400 clean,nya,278.86,52244,read as JSON files (dataset script no longer supported)
+MADLAD-400 clean,tum,0,0,no Tumbuka files in the clean split

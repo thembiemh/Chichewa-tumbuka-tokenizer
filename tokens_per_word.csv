@@ -1,0 +1,7 @@
+model,lang,fertility,split_words_%
+xlmr-base,nya,2.424,73.7
+xlmr-base,tum,2.375,67.6
+afro-xlmr-base,nya,2.424,73.7
+afro-xlmr-base,tum,2.375,67.6
+afro-xlmr-base-76L,nya,2.424,73.7
+afro-xlmr-base-76L,tum,2.375,67.6
